@@ -1,0 +1,37 @@
+@media (max-width: 600px){
+
+
+
+
+
+
+    .products{
+        display: inherit;
+        height: auto;
+        max-height: initial;
+    }
+    .product{
+        margin-top: auto;
+    }
+    .main_section{
+        padding: 4%;
+    }
+    .properties{
+        display: block;
+        margin-top: 50px;
+    }
+    .mentions{
+        grid-template: 8  1;
+    }
+    .mentions{
+        grid-template: repeat(4,auto) / 50%;
+        justify-content: center;
+    }
+    .mentions h1{
+        grid-column-end: initial;
+    }
+    .mentions .article{
+        margin: 5%;
+    }
+
+}
