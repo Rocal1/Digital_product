@@ -44,7 +44,7 @@ text-decoration: none;
 }
 
 nav li a:hover{
-  color: var(--white-color);
+  color: black;
 }
 
 /* ---------------------Main section */
